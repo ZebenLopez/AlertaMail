@@ -1,0 +1,11 @@
+.boton{
+    -fx-background-color: #030000;
+    -fx-border-color: #ffffff;
+    -fx-border-style: solid;
+    -fx-border-radius: 8px;
+    -fx-background-radius: 10px;
+    -fx-text-fill: #fafafa;
+}
+
+.slider{
+}
